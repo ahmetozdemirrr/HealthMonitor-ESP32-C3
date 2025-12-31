@@ -1,0 +1,2 @@
+source /home/ahmet/esp/projects/ble_test/gatt_server/build/bootloader/gdbinit/symbols
+source /home/ahmet/esp/projects/ble_test/gatt_server/build/bootloader/gdbinit/connect

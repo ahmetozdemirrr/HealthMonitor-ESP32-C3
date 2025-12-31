@@ -1,0 +1,2 @@
+source /home/ahmet/esp/projects/ble_test/gatt_server/build/gdbinit/symbols
+source /home/ahmet/esp/projects/ble_test/gatt_server/build/gdbinit/connect
