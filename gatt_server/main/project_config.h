@@ -9,7 +9,7 @@
 // DÜZELTME: 400000 (Hızlı) yerine 100000 (Standart) yapıyoruz.
 // Bu hızda direnç olmasa bile MLX90614 rahat çalışır.
 // Diğer sensörler de bu hızı destekler.
-#define I2C_MASTER_FREQ_HZ          100000 
+#define I2C_MASTER_FREQ_HZ          100000
 #define I2C_MASTER_TIMEOUT_MS       1000
 
 #endif // PROJECT_CONFIG_H
